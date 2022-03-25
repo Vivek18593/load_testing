@@ -58,7 +58,7 @@ while status:
         if 'https://' in url_link or 'http://' in url_link:
             lnk = False
         else:
-            print('URL Incorrect! Try again..')
+            print('URL Format Incorrect! Try again..')
             lnk = True
 
     num = True
