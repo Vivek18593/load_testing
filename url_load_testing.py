@@ -88,5 +88,5 @@ while status:
                     status = False
             print('\n')
         else:
-            print(colored('Not a number! Try again..', 'blue'))
+            print(colored('Not a number! Try again..', 'red'))
             num = True
